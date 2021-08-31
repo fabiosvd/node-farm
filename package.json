@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fabiosvd/node-farm/issues"
   },
-  "homepage": "https://github.com/fabiosvd/node-farm#readme"
+  "homepage": "https://github.com/fabiosvd/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.0"
+  }
 }
